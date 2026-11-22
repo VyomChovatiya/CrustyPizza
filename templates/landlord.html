@@ -1,0 +1,7 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Landlord discovery</title>{% include 'style.html' %}
+<header><nav><b>Warehouse diligence</b><a href="/cases/{{key}}">Case report</a></nav></header>
+<main><h1>Landlord discovery</h1><p>{{inputs.site}} · {{inputs.region}}</p>
+<form method="post"><p>Search public documents for the address and examine passages that mention a lessor. The search sends the site address to configured providers.</p><button>{{ 'Refresh search' if result else 'Search for landlord' }}</button></form>
+{% if result %}<h2>Leasing authority · {{result.authority}}</h2>
+{% for item in result.findings %}<article><h2>{{item.role}}</h2>{% for label,value in item.get('fields',{}).items() %}<p><b>{{label}}</b> · {{value}}</p>{% endfor %}<blockquote>{{item.passage}}</blockquote><a href="{{item.url}}">Source · {{item.locator}}</a></article>{% else %}<p>No evidence identifying a lessor was retrieved. A registered deed with the unit or parcel number can resolve the identity.</p>{% endfor %}
+<h2>Search activity</h2><p>{{result.checked_at}}</p>{% for step in result.attempts %}<p style="overflow-wrap:anywhere">{{step.source}} · {{step.status}}</p>{% endfor %}{% endif %}</main></html>

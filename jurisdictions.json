@@ -1,0 +1,146 @@
+{
+  "Andaman & Nicobar Islands": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://db.and.nic.in/ROR/view1/formf.aspx"
+  },
+  "Andhra Pradesh": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://meebhoomi.ap.gov.in"
+  },
+  "Arunachal Pradesh": {
+    "service": "Certificate application",
+    "url": "https://eodb.arunachal.gov.in/services"
+  },
+  "Assam": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://revenueassam.nic.in"
+  },
+  "Bihar": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://biharbhumi.bihar.gov.in"
+  },
+  "Chandigarh": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://revenue.chd.gov.in/"
+  },
+  "Chhattisgarh": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://bhuiyan.cg.nic.in/"
+  },
+  "Goa": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://dslr.goa.gov.in"
+  },
+  "Gujarat": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://anyror.gujarat.gov.in"
+  },
+  "Haryana": {
+    "service": "Jamabandi service guide",
+    "url": "https://ambala.gov.in/service/jamabandi-portal/"
+  },
+  "Himachal Pradesh": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://himbhoomilmk.nic.in/viewlandrecords.aspx"
+  },
+  "Jammu & Kashmir": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://landrecords.jk.gov.in/Dashboard/Home"
+  },
+  "Jharkhand": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://jharbhoomi.jharkhand.gov.in/"
+  },
+  "Karnataka": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://rdservices.karnataka.gov.in/"
+  },
+  "Kerala": {
+    "service": "Ente Bhoomi",
+    "url": "https://revenue.entebhoomi.kerala.gov.in/"
+  },
+  "Ladakh": {
+    "service": "Land Records",
+    "url": "https://landrecords.ladakh.gov.in/lalr/Home/"
+  },
+  "Lakshadweep": {
+    "service": "Revenue Department; confirm island and extract",
+    "url": "https://lakshadweep.gov.in/department-of-revenue/"
+  },
+  "Madhya Pradesh": {
+    "service": "District land-record service guide",
+    "url": "https://sidhi.nic.in/en/service/land-records/"
+  },
+  "Maharashtra": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://mahabhumi.gov.in/mahabhumilink"
+  },
+  "Manipur": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://louchapathap.nic.in"
+  },
+  "Meghalaya": {
+    "service": "Revenue authority; request district record",
+    "url": "https://www.meghalaya.gov.in/dept/39"
+  },
+  "Mizoram": {
+    "service": "eRAM patta/application service",
+    "url": "https://eram.mizoram.gov.in/"
+  },
+  "Nagaland": {
+    "service": "RoR portal; confirm local coverage",
+    "url": "https://www.lrsror.nagaland.gov.in/home"
+  },
+  "Delhi": {
+    "service": "Indraprastha Bhulekh",
+    "url": "https://dlrc.delhi.gov.in/"
+  },
+  "Odisha": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://bhulekh.ori.nic.in"
+  },
+  "Puducherry": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://www.nilamagal.py.gov.in"
+  },
+  "Punjab": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://revenue.punjab.gov.in"
+  },
+  "Rajasthan": {
+    "service": "Apna Khata",
+    "url": "https://apnakhata.rajasthan.gov.in/"
+  },
+  "Sikkim": {
+    "service": "Reference Parcha",
+    "url": "https://ilrms.sikkim.gov.in/Reference_Parcha.aspx"
+  },
+  "Tamil Nadu": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://eservices.tn.gov.in"
+  },
+  "Telangana": {
+    "service": "Bhu Bharati land status",
+    "url": "https://bhubharati.telangana.gov.in/knowLandStatus"
+  },
+  "Dadra And Nagar Haveli And Daman And Diu": {
+    "service": "Integrated land/property service directory",
+    "url": "https://swp.dddgov.in/integrate-land-property-portal"
+  },
+  "Tripura": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://jami.tripura.gov.in"
+  },
+  "Uttar Pradesh": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://upbhulekh.gov.in"
+  },
+  "Uttarakhand": {
+    "service": "National inventory \u00b7 land records",
+    "url": "https://bhulekh.uk.gov.in"
+  },
+  "West Bengal": {
+    "service": "National inventory \u00b7 land records",
+    "url": "http://www.banglarbhumi.gov.in"
+  }
+}
